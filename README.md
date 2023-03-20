@@ -1,0 +1,2 @@
+# Synthetix
+for techincal interview
